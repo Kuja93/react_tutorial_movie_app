@@ -1,0 +1,13 @@
+@media only screen and (max-width: 975px) {
+    .wsb {
+        display: none;
+    }
+
+    .movieHeading {
+        display: unset!important;
+    }
+
+    .searchBox {
+        max-width: 90%;
+    }
+}
