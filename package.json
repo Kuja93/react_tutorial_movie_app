@@ -2,11 +2,12 @@
   "name": "react_tutorial_movie_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kuja93.github.io/react_tutorial_metronome",
+  "homepage": "https://kuja93.github.io/react_tutorial_movie_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
+    "bootstrap": "^4.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
