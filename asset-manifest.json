@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_tutorial_movie_app/static/css/main.c6a2f5e0.chunk.css",
-    "main.js": "/react_tutorial_movie_app/static/js/main.6f70241e.chunk.js",
-    "main.js.map": "/react_tutorial_movie_app/static/js/main.6f70241e.chunk.js.map",
+    "main.js": "/react_tutorial_movie_app/static/js/main.e32dffd6.chunk.js",
+    "main.js.map": "/react_tutorial_movie_app/static/js/main.e32dffd6.chunk.js.map",
     "runtime-main.js": "/react_tutorial_movie_app/static/js/runtime-main.54f46a90.js",
     "runtime-main.js.map": "/react_tutorial_movie_app/static/js/runtime-main.54f46a90.js.map",
     "static/css/2.150d169a.chunk.css": "/react_tutorial_movie_app/static/css/2.150d169a.chunk.css",
@@ -11,13 +11,14 @@
     "index.html": "/react_tutorial_movie_app/index.html",
     "static/css/2.150d169a.chunk.css.map": "/react_tutorial_movie_app/static/css/2.150d169a.chunk.css.map",
     "static/css/main.c6a2f5e0.chunk.css.map": "/react_tutorial_movie_app/static/css/main.c6a2f5e0.chunk.css.map",
-    "static/js/2.b6959e9a.chunk.js.LICENSE.txt": "/react_tutorial_movie_app/static/js/2.b6959e9a.chunk.js.LICENSE.txt"
+    "static/js/2.b6959e9a.chunk.js.LICENSE.txt": "/react_tutorial_movie_app/static/js/2.b6959e9a.chunk.js.LICENSE.txt",
+    "static/media/toTheMoon.c125564f.png": "/react_tutorial_movie_app/static/media/toTheMoon.c125564f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.54f46a90.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.b6959e9a.chunk.js",
     "static/css/main.c6a2f5e0.chunk.css",
-    "static/js/main.6f70241e.chunk.js"
+    "static/js/main.e32dffd6.chunk.js"
   ]
 }
